@@ -14,7 +14,7 @@ export default function Footer() {
           <a href="https://www.npmjs.com/package/next-auth">NPM</a>
         </li>
         <li className={styles.navItem}>
-          <a href="https://github.com/nextauthjs/next-auth-example">GitHub</a>
+          <a href="https://github.com/marksikaundi">GitHub</a>
         </li>
         <li className={styles.navItem}>
           <Link href="/policy">
